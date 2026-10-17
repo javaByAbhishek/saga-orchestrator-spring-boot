@@ -79,6 +79,3 @@ products-service/             Product and inventory service
 payments-service/             Payment service
 credit-card-processor-service Demo payment processor
 ```
-## Attribution
-
-This project builds on the original work by simplyi, including the saga implementation. Later updates in this repository include work by Abhishek. The snapshot commit consolidates the prior Git history; it does not claim original authorship.
