@@ -1,4 +1,4 @@
-package com.javabyabhishek.ccps.web.controller;
+package com.javabyabhishek.ccps.resources;
 
 import com.javabyabhishek.core.dto.CreditCardProcessRequest;
 import jakarta.validation.Valid;

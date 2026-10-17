@@ -1,6 +1,6 @@
-package com.javabyabhishek.payments.dao.jpa.repository;
+package com.javabyabhishek.payments.repository;
 
-import com.javabyabhishek.payments.dao.jpa.entity.PaymentEntity;
+import com.javabyabhishek.payments.entity.PaymentEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

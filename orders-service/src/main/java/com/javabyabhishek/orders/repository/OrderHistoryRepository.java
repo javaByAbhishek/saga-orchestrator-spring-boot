@@ -1,6 +1,6 @@
-package com.javabyabhishek.orders.dao.jpa.repository;
+package com.javabyabhishek.orders.repository;
 
-import com.javabyabhishek.orders.dao.jpa.entity.OrderHistoryEntity;
+import com.javabyabhishek.orders.entity.OrderHistoryEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

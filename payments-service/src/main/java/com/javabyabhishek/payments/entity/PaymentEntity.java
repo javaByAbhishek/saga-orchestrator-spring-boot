@@ -1,4 +1,4 @@
-package com.javabyabhishek.payments.dao.jpa.entity;
+package com.javabyabhishek.payments.entity;
 
 import jakarta.persistence.*;
 

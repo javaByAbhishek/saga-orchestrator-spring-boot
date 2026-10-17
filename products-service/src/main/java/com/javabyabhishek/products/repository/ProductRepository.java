@@ -1,6 +1,6 @@
-package com.javabyabhishek.products.dao.jpa.repository;
+package com.javabyabhishek.products.repository;
 
-import com.javabyabhishek.products.dao.jpa.entity.ProductEntity;
+import com.javabyabhishek.products.entity.ProductEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

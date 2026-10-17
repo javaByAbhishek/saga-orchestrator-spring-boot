@@ -1,4 +1,4 @@
-package com.javabyabhishek.orders.dao.jpa.entity;
+package com.javabyabhishek.orders.entity;
 
 import com.javabyabhishek.core.types.OrderStatus;
 import jakarta.persistence.*;

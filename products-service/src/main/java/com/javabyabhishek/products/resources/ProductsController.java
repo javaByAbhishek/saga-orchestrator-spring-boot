@@ -1,4 +1,4 @@
-package com.javabyabhishek.products.web.controller;
+package com.javabyabhishek.products.resources;
 
 import com.javabyabhishek.core.dto.Product;
 import com.javabyabhishek.products.dto.ProductCreationRequest;

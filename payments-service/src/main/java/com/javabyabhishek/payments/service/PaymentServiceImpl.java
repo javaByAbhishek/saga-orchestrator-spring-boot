@@ -1,8 +1,8 @@
 package com.javabyabhishek.payments.service;
 
 import com.javabyabhishek.core.dto.Payment;
-import com.javabyabhishek.payments.dao.jpa.entity.PaymentEntity;
-import com.javabyabhishek.payments.dao.jpa.repository.PaymentRepository;
+import com.javabyabhishek.payments.entity.PaymentEntity;
+import com.javabyabhishek.payments.repository.PaymentRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 

@@ -1,8 +1,8 @@
 package com.javabyabhishek.orders.service;
 
 import com.javabyabhishek.core.types.OrderStatus;
-import com.javabyabhishek.orders.dao.jpa.entity.OrderHistoryEntity;
-import com.javabyabhishek.orders.dao.jpa.repository.OrderHistoryRepository;
+import com.javabyabhishek.orders.entity.OrderHistoryEntity;
+import com.javabyabhishek.orders.repository.OrderHistoryRepository;
 import com.javabyabhishek.orders.dto.OrderHistory;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;

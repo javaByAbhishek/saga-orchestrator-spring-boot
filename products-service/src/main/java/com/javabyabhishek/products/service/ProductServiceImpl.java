@@ -2,8 +2,8 @@ package com.javabyabhishek.products.service;
 
 import com.javabyabhishek.core.dto.Product;
 import com.javabyabhishek.core.exceptions.ProductInsufficientQuantityException;
-import com.javabyabhishek.products.dao.jpa.entity.ProductEntity;
-import com.javabyabhishek.products.dao.jpa.repository.ProductRepository;
+import com.javabyabhishek.products.entity.ProductEntity;
+import com.javabyabhishek.products.repository.ProductRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 
@@ -16,6 +16,7 @@ public class ProductServiceImpl implements ProductService {
     private final ProductRepository productRepository;
 
     public ProductServiceImpl(ProductRepository productRepository) {
+
         this.productRepository = productRepository;
     }
 

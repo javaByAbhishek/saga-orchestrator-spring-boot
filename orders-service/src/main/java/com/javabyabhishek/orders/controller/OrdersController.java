@@ -1,4 +1,4 @@
-package com.javabyabhishek.orders.web.controller;
+package com.javabyabhishek.orders.controller;
 
 import com.javabyabhishek.core.dto.Order;
 import com.javabyabhishek.orders.dto.CreateOrderRequest;
